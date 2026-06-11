@@ -1,0 +1,6 @@
+{
+  "name": "OIOS - Organizational Intelligence Operating System",
+  "description": "Unified intelligence layer mapping skills, systems, relationships, and digital twins from enterprise knowledge bases.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
